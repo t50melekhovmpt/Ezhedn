@@ -1,0 +1,8 @@
+C:\Users\izome\OneDrive\Рабочий стол\sharp\Ezhednevnik\Ezhednevnik\bin\Debug\Ezhednevnik.exe.config
+C:\Users\izome\OneDrive\Рабочий стол\sharp\Ezhednevnik\Ezhednevnik\bin\Debug\Ezhednevnik.exe
+C:\Users\izome\OneDrive\Рабочий стол\sharp\Ezhednevnik\Ezhednevnik\bin\Debug\Ezhednevnik.pdb
+C:\Users\izome\OneDrive\Рабочий стол\sharp\Ezhednevnik\Ezhednevnik\obj\Debug\Ezhednevnik.csproj.AssemblyReference.cache
+C:\Users\izome\OneDrive\Рабочий стол\sharp\Ezhednevnik\Ezhednevnik\obj\Debug\Ezhednevnik.csproj.SuggestedBindingRedirects.cache
+C:\Users\izome\OneDrive\Рабочий стол\sharp\Ezhednevnik\Ezhednevnik\obj\Debug\Ezhednevnik.csproj.CoreCompileInputs.cache
+C:\Users\izome\OneDrive\Рабочий стол\sharp\Ezhednevnik\Ezhednevnik\obj\Debug\Ezhednevnik.exe
+C:\Users\izome\OneDrive\Рабочий стол\sharp\Ezhednevnik\Ezhednevnik\obj\Debug\Ezhednevnik.pdb
